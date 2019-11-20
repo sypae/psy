@@ -4,3 +4,10 @@ D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.Properties.Resources.resour
 D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.csproj.GenerateResource.Cache
 D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.exe
 D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.pdb
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.exe
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.pdb
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.Form1.resources
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.Properties.Resources.resources
+E:\github_repository\psy\Source\TestProgram\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.csproj.GenerateResource.Cache
