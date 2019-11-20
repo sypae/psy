@@ -1,0 +1,6 @@
+D:\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+D:\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.Properties.Resources.resources
+D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.csproj.GenerateResource.Cache
+D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.exe
+D:\WinFormTest\WinFormTest\obj\x86\Debug\WinFormTest.pdb
